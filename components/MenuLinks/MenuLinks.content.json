@@ -1,0 +1,34 @@
+{
+	"links": [
+		{
+			"locale": "pt-BR",
+			"linkName": "Sobre Mim",
+			"linkPath": "/about"
+		},
+		{
+			"locale": "pt-BR",
+			"linkName": "Blog",
+			"linkPath": "/blog"
+		},
+		{
+			"locale": "pt-BR",
+			"linkName": "Contato",
+			"linkPath": "/contact"
+		},
+		{
+			"locale": "en-US",
+			"linkName": "About",
+			"linkPath": "/about"
+		},
+		{
+			"locale": "en-US",
+			"linkName": "Blog",
+			"linkPath": "/blog"
+		},
+		{
+			"locale": "en-US",
+			"linkName": "Contact",
+			"linkPath": "/contact"
+		}
+	]
+}
