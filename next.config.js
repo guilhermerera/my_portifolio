@@ -9,6 +9,20 @@ const nextConfig = {
 	reactStrictMode: true,
 	compiler: {
 		styledComponents: true
+	},
+	async redirects() {
+		return [
+			{
+				source: "/linkedin",
+				destination: "https://www.linkedin.com/in/guilhermerera/",
+				permanent: true
+			},
+			{
+				source: "/github",
+				destination: "https://github.com/guilhermerera",
+				permanent: true
+			}
+		];
 	}
 };
 
