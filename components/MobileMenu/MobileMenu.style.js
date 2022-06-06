@@ -24,6 +24,9 @@ const StyledMobileMenu = styled.div`
 	li {
 		list-style: none;
 	}
+	@media only screen and (min-width: 820opx) {
+		display: none;
+	}
 `;
 
 export default StyledMobileMenu;

@@ -29,7 +29,7 @@ const Div = styled.div`
 	width: 35px;
 	height: 35px;
 	padding: 5px;
-	border-radius: 3px;
+	border-radius: 4px;
 	background-color: var(--pink);
 	display: flex;
 	flex-flow: column nowrap;

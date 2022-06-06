@@ -1,0 +1,14 @@
+{
+	"contents": [
+		{
+			"locale": "pt-BR",
+			"title": "Principal",
+			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec molestie libero ut facilisis ullamcorper. Sed nec nisl mi. Nulla id tempus est. Nam tempus ultricies justo in consequat. In tristique consequat magna, vitae semper mauris blandit sed. Mauris viverra at ipsum sit amet volutpat. Suspendisse potenti. Proin mattis ante ut velit aliquet convallis. Maecenas accumsan interdum lacus, eget elementum felis luctus non. In placerat, justo vel semper auctor, odio nulla congue quam, eu suscipit lorem erat sed mi. Fusce vitae magna et leo blandit tincidunt ac ac odio. Ut convallis enim eget faucibus bibendum."
+		},
+		{
+			"locale": "en-US",
+			"title": "Home",
+			"text": "Ut vel rutrum enim. Vivamus vestibulum elit non ex lobortis, tempor feugiat purus commodo. Vestibulum dignissim, risus at accumsan accumsan, lorem justo fringilla neque, ut laoreet risus ante vel purus. Duis sit amet nisi viverra, ornare enim at, lacinia purus. Morbi tincidunt velit in justo scelerisque tincidunt. Donec euismod tempus urna eget tempor. Fusce quis ullamcorper diam. Aenean non diam suscipit leo maximus venenatis. Fusce rhoncus, nibh vel blandit imperdiet, risus massa dictum sapien, et malesuada felis ante in turpis. Mauris egestas orci est, eget egestas eros convallis sit amet."
+		}
+	]
+}

@@ -14,6 +14,7 @@ export default function Menu() {
 			<MobileHamburguer />
 			<MobileMenu>
 				<MenuLinks mobile='true' />
+				<CountrySelector />
 			</MobileMenu>
 		</>
 	);

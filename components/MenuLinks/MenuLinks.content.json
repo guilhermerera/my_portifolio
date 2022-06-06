@@ -7,8 +7,8 @@
 		},
 		{
 			"locale": "pt-BR",
-			"linkName": "Blog",
-			"linkPath": "/blog"
+			"linkName": "Trabalhos",
+			"linkPath": "/jobs"
 		},
 		{
 			"locale": "pt-BR",
@@ -22,8 +22,8 @@
 		},
 		{
 			"locale": "en-US",
-			"linkName": "Blog",
-			"linkPath": "/blog"
+			"linkName": "Jobs",
+			"linkPath": "/jobs"
 		},
 		{
 			"locale": "en-US",

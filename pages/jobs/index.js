@@ -1,7 +1,7 @@
 import Head from "next/head";
 import Wrapper from "../../components/Wrapper/Wrapper";
 
-export default function About() {
+export default function Jobs() {
 	return (
 		<>
 			<Head>
@@ -9,7 +9,7 @@ export default function About() {
 			</Head>
 			<div className='bg-light'>
 				<Wrapper>
-					<h1>About</h1>
+					<h1>Jobs</h1>
 					<p>
 						Lorem Ipsum is simply dummy text of the printing and typesetting
 						industry. Lorem Ipsum has been the industry&lsquo;s standard dummy
